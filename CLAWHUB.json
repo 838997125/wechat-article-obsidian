@@ -2,7 +2,7 @@
   "name": "wechat-article-obsidian",
   "version": "1.1.0",
   "description": "微信公众号文章解析并自动保存到 Obsidian PARA 系统，支持图片下载和智能分类",
-  "homepage": "https://github.com/838997125/838997125",
+  "homepage": "https://github.com/838997125/wechat-article-obsidian",
   "tags": [
     "obsidian",
     "wechat",
