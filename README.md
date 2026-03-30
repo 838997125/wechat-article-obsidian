@@ -327,7 +327,7 @@ MCP Server 暴露两个工具：
 }
 ```
 
----
+
 
 ## 技术原理
 
@@ -339,7 +339,4 @@ MCP Server 暴露两个工具：
 
 ---
 
-## 更新日志
 
-- **2026-03-30**：融合 `wechat-article-for-ai` 到 skill 内置，`scripts/` 目录独立；新增求职分类；优化 README
-- **更早版本**：初始版本，依赖外部 `D:\tools\wechat-article-for-ai`
